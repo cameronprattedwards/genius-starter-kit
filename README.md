@@ -4,6 +4,7 @@ A getting-started guide for using GeniusJS, the lightweight JavaScript data fram
 
 To use it: 
 
+1. [Install node](http://nodejs.org/download/) and add it to your PATH.
 1. Open up your command-line terminal.
 1. `cd where/you/want/to/install/starter-kit`
 1. `git clone https://github.com/cameronprattedwards/genius-starter-kit.git`
